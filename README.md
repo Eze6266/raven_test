@@ -6,9 +6,9 @@ A new Flutter project.
 
 
 
-![thirdscreen](https://user-images.githubusercontent.com/58287242/188743429-5ecb7b68-8b48-4730-9904-bb22fff1e54d.png)
-
+![thirdscreen](https://user-images.githubusercontent.com/58287242/188743429-5ecb7b68-8b48-4730-9904-bb22fff1e54d.png)  
 ![fourthscreen](https://user-images.githubusercontent.com/58287242/188743661-34b60415-d83a-4606-9e86-50076e25e806.png)
+
 
 
 ## Getting Started
